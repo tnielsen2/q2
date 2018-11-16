@@ -1,6 +1,6 @@
 FROM ubuntu:18.04
 add . /opt/quake2
-COPY ./arena/server.cfg /opt/quake2/server.cfg
+COPY ./arena/server.cfg /opt/quake2/
 run useradd -m -s /bin/bash quake2
 run chown -R quake2:quake2 /opt/quake2
 run apt-get update
