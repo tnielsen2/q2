@@ -11,6 +11,7 @@ git clone https://github.com/tnielsen2/q2.git /opt/q2
 and run the following on your Docker host:
 ```
 docker run -d \
+    --name quake2 \
     -v /opt/q2/pak0.pak:/usr/share/games/quake2/baseq2/pak0.pak \
     -v /opt/q2/server.cfg:/usr/share/games/quake2/baseq2/server.cfg \
     inanimate/quake2 +fraglimit 50
