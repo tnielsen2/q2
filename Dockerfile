@@ -9,4 +9,4 @@ expose 27910
 workdir /opt/quake2
 user quake2
 #run /bin/bash
-CMD ./q2proded +set game arena +set dedicated 1 +exec server.cfg
+CMD ./q2proded +set dedicated 1 +set game arena +exec server.cfg

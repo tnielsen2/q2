@@ -1,0 +1,103 @@
+Title			: Volcanoe Landscape
+
+Filename(s)		: volc_*.tga
+			  volc_*.pcx			  
+								
+Author			: David M. Mertz
+
+Nicknames		: Alpha_Male
+	  	          ]km[Alpha_Male	
+  	                  [R2]Alpha_Male
+
+Version                 : v1.0
+
+Email Address/Contact   : dmertz@vt.edu
+			
+IRC		 	: Gamesnet: #clan_knightmare #rangers
+
+Home Page		: (none yet) 
+
+
+Other levels/projects
+by author               : Quake 1:
+
+			  Co-Author on Tribute: Quake Rocket Arena Map Pack 
+			        1: The Caldera (caldera.bsp)
+			        2: The Quarry  (quarry.bsp)
+				3: Launch Silo (silo.bsp) 
+			        4: The Grotto  (grotto.bsp)
+				5: Ribcage     (ribcage.bsp)
+
+			  Quake 2:
+
+			  Torn Apart 3: Betrayal At Stroggos Movie Set 									  (ta3_set.bsp)
+		
+			  Against the Flow (against.bsp, Quake 2 DM)
+
+			  The Proving Grounds (ra2map13.bsp, Official Rocket 								  Arena 2 Multiarena Level which was also 									  published on the Activision and id 							      			  Commercial CD-ROM, Quake 2 Netpack 1: 						      			  Extremities)
+				
+				1: Against the Flow - RA2
+				2: Rib Cage
+				3: Arena M I
+				4: Over Pass
+					
+			  Alpha's Eclectic Collection (eclctic.bsp, Quake 2 
+      			  Rocket Arena 2)
+
+Description		: A custom Quake 2 Environment map made for use in The Caldera
+			  Rocket Arena 2 map which is included in the eclectic.bsp 
+			  Rocket Arena 2 map titled "Alpha's Eclectic Collection."
+
+=================================================================================
+			
+Software Used           : Photoshop 5.x
+			  Sky Paint Plugin
+			  Paintshop Pro 5 (Trial Version)
+			  Wally 1.x			  
+			  	
+
+Computers/Hardware 	: 200 MMX, 64 MB RAM, Monster 3D Voodoo 1 4 mb Graphics 
+  		          Card
+
+			  P2 450 MHZ, 256 mb PC100 SDRAM, Canopus Spectra 2500              
+    	  	          AGP 16 mb TNT
+
+			  WACOM Art IIZ Graphics Tablet
+
+
+================================================================================
+
+* Additional Comments/Thanks *
+
+Thanks to the gaming community for their nice compliments and support.
+
+Thanks to my friends and family for their continued support.
+
+Special thanks to John Faulkenbury for his continued friendship and support and being the 
+sounding board for my game design ideas.
+
+Thanks to The Ranger Clan and Clan Knightmare for their continued support and friendship.
+
+================================================================================
+
+* Copyrights / Permissions *
+
+
+No one is allowed to commercially exploit this custom graphic such as the inclusion of 
+this project on CD-ROM and/or any other electronic media that is sold for profit without 
+permission from the content author. 
+
+You MAY distribute this custom graphic for non-profit uses through any electronic network 
+provided you include this file, all associated files and leave the original organization 
+of the project in tact and give full credit to the author.
+
+If you wish to use this custom graphic as the environment map for your own custom level, 
+you may do so as long as you get permission from the author and follow the guidelines 
+above including the giving of proper credit to the author.
+
+You may NOT modify this graphic without permission of the author.
+
+All other commercial symbols, names, proprietary software is property of their respective owners and legal restrictions apply.
+
+Quake 2 is Copyright (c) 1997 by ID Software Inc.  All rights reserved.
+The Quake 2 logo and likeness are trademarks of ID Software Inc.
