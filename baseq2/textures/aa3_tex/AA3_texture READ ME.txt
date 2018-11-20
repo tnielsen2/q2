@@ -1,0 +1,99 @@
+--------------------------------------------------
+
+The Anarchy Army (c) 2000-2003
+
+www.anarchyarmy.com
+
+--------------------------------------------------
+
+
+Welcome,
+	Thank you for downloading the Texture Files The Anarchy Army was using before it closed its game development division down.  I would like to let you know a little brief history on each of the games as you will see there are 2 folders in the directory.
+
+The Online Adventure -
+The Online Adventure soon began its production after The Anarchy Army pulled away from making Graal 3D off of the game Graal (www.graalonline.com).  The Online Adventure was a MMOAG, at the time it was the only MMOAG in production.  The Online Adventure textures you will find in this package includes the textures we where using to create a technical demo, the little symbol you see on the "temple" textures that looks like an upside down fork was a sign of one of the religions in the game fyi. We had a lot of transparent textures (decal/srite/alpha trans) as well however since they where all .tga and contained an alpha channel, not all games support that so i decided to just utilize  the ones without the alpha channels in them.
+
+ADD Bunny-
+ADD Bunny was the last project we where working on before closing down.  ADD Bunny was a comedy-action game based in a oriental environment and the south of the United States (Arkansas Region).  You will find some beatifuly crafted nature textures here, and of course hundreds of other great textures as well. 
+
+
+Pleas pay attention to the names of the textures, as you might find the description you need for them incase you get confused and have to ask me or Philip any questions.
+
+----------------------------------------------
+
+Rules for usage of the textures
+
+----------------------------------------------
+
+The Textures in this package are 100% free unless you do not want to follow the rules, if you do not want to follow one or more of the rules listed below you may pay for the textures for a small fee of $30 USD to Philip Klevestav.
+
+1)Credits to proper authors- Whenever you release a map/mod/game/project the credits for the texture usage must be in the credits.  In other words, please tell where you got these sexy textures from.
+
+2)Notification of The Anarchy Army - There must be a link to The Anarchy Army's web-site within the credited area of the textures.
+
+3)Keep File names the same - You may not change the names of the textures unless 100% necessary for the project you are working on.  We ask that you please try to keep them the same just in case.
+
+4)The Textures Must Be Free - Whatever you are working on, the textures that you use from this package must be accessable by anyone at any time.
+
+5) This Readme must accompany the textures at ALL times - This readme must be included wherever the textures are, wether it be with a packaged file (.wad, .zip, .pak, etc.) or by themselves.
+
+
+----------------------------------------------
+
+Credits
+
+----------------------------------------------
+
+ALL 617 textures are made by Philip Klevestav (AKA Blazeeer!!)
+
+Philip Klevestav -
+philipk@anarchyarmy.com
+ICQ - 26671210
+Web-Site - http://www.blaz.cscentral.com
+
+This package was put together and released by me Kedhrin Gonzalez (AKA Peeves)
+
+Kedhrin Gonzalez -
+Kedhrin@anarchyarmy.com
+ICQ - 52477482
+Web-Site - http://kedhrin.anarchyarmy.com
+
+
+
+-----------------------------------------------
+
+Random
+
+-----------------------------------------------
+
+Texture Average Size - 256x256 - 512x512
+
+Q: Can I resize the textures?
+A: Sure!
+
+Texture Format - .jpg, .jpeg
+
+Q: Can I change the format?
+A: Sure!
+
+Q: Do the textures tile seamlessly?
+A: Most do, some don't tile, and some have seams in them.
+
+Q: Are there bump maps for these?
+A: Some of the textures do have bump maps, however since so very few of them had a bump map i decided not to release any.
+
+Q: I'm a hott horny girl will you have sex with me?
+A: Sure, call me at....
+
+Q: Man, i want a 1337 community to get help at, talk to fellow developers and have a good time!
+A: Then by all means! www.gamedesign.net is the place to go!  Great forums, the best community!
+
+Q: I don't want to put all of these textures in a wad file...can i make them seperate?
+A: Of course! only use the textures you need, just remember to include this document with it!
+
+-------------------------------------------------------
+Special thanks to the entire ex The Anarchy Army team, whether you worked with us before,  or worked with us til the end.  Thank you for the experience and the pleasure of working on games.
+
+-Kedhrin "Peeves" Gonzalez
+
+

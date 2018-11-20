@@ -1,0 +1,74 @@
+================================================================
+Title                   : IK texture pack for Quake2 levels
+Date                    : 1/4/1998
+Filename                : iktex01.zip ,  ik/*.wal, iktex.bsp
+Author                  : Iikka "Fingers" Keranen
+                          (use &auml; instead of a in "Keranen" in html..)
+Email Address           : ikeranen@mail.student.oulu.fi
+Home Page               : www.planetquake.com/ikq/ (visit there!)
+Snail Mail Address      : Iikka keranen
+(send me your money!-)    Kiiskitie 4
+                          FIN-93400 Taivalkoski
+                          Finland
+Description             : This is my first released texture pack for Quake2.
+                          It contains 110 textures made from scratch, 
+                          originally for Quake1 as ikbase.wad. I will 
+                          probably update this pack with new textures if/when 
+                          I do some...
+
+Additional Credits to   : Who ever wrote Deluxe Paint on 80's. It's 
+                          still the best paint program for 256-colour
+                          modes.
+
+================================================================
+
+* Information *
+
+This is a set of textures that can be used in add-on maps for Quake2. These 
+textures are required on your hard disk if you play a level that uses these 
+textures. (I might do some, and at least one guy who forced me to release 
+this pack had better to do too :)
+
+Place the .wal files in quake2/baseq2/textures/ik/ . If they are in any other
+directory, they won't work with my possibly upcoming maps...
+
+* Construction *
+
+Base                    : from scratch
+Editor(s) used          : Deluxe Paint (the oldest version, 1985 or so..)
+                          Imap (my own program)
+                          Image Alchemy shareware v1.9
+                          Pcx2wal (my own)
+Known Bugs              : Bugs in textures? Hmm.. I don't think so. (Though not all these
+                          textures have been used/tested yet..)
+Build Time              : 2 minutes to convert from ikbase. 30 minutes to figure out the
+                          stupid winblows zip compressor.
+
+* Other Info *
+
+Get IKSPQ5 level for Quake1 to see these textures in action. It is available
+at http://www.planetquake.com/ikq/levels.htm .
+
+* Legal Stuff *
+
+These textures may be freely used and distributed, under the following
+conditions:
+
+- My name (Iikka Keranen) is mentioned. With single levels, the "Additional
+  credits" section is where you put my name. With conversions and level
+  paks, or projects involving several people, I would be in "authors".
+
+- No money is charged for distributing this texture wad or ANY PRODUCT USING
+  THESE TEXTURES. I am the only person who has the right to get money for
+  selling these textures. You use them for free, you distribute them free!
+
+- These textures are not modified without my permission; Modified textures
+  remain my property. 
+
+- This text file (iktex01.txt) is included in the product (.zip file or other)
+  and is mentioned in the product's own text files.
+
+- Commercial distribution is prohibited. Or ask me, $10k could be enough to
+  change my opinion. :)
+
+*** End of text file ***

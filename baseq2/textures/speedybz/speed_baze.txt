@@ -1,0 +1,54 @@
+____________________________________
+
+Title				: 'Speed Baze'
+
+quake texture wad 
+
+
+Author	:	 Speedy
+			 speeds@softhome.net
+			 www.planetquake.com/speedy
+			 icq 68154481
+			
+Release Date            : 8 Aug 2002
+Files                   : speedbz.wad 
+
+____________________________________
+
+Description :
+
+'Speed Baze' is industrial texture set.
+Based on some ID`s e3metal and base textures 
+I`v created set that suits quake style
+and is easy to map with. And it works good
+with other Quake stock textures.
+
+Use in your Quake maps.
+
+
+____________________________________
+
+Instructions / INSTALLATION 
+
+
+Just unzip to the folder where you store
+texture wads. Then follow your map editor
+instructions how to add new textures.
+____________________________________
+
+Soft Used              
+
+BSP map editor by Yahn W. Bernier
+TexMex by Mickey
+PS by some unknown company...
+____________________________________
+
+-- Copyright / Permissions --
+
+Copyright: ID software, 
+	     Speedy (www.planetquake.com/speedy)	
+
+NON-commercial use only (whole or partial).
+You MAY distribute this file through any electronic network (internet,
+local BBS etc.), provided you include txt and all files unmodified and leave the zip archive intact.
+

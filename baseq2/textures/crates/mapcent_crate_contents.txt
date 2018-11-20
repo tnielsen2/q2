@@ -1,0 +1,448 @@
+Contents List for MapCenter Texture Challeng #1
+
+Pakfile: mapcent_crate.pk3
+Texture directory: mapcent_crate
+Shader Script: mapcent_crate.shader
+Contributors: 22 artists (see below)
+Number of Textures: 105
+
+===================================================================
+
+TITLE                   : Titan Shipping Co. Container
+AUTHOR                  : Matthew "Bushboy" Trow
+EMAIL ADDRESS           : bushboy@ritualistic.com
+HOMEPAGE URL            : http://www.ritualistic.com/node/bushboy/
+NUMBER OF TEXTURES      : 4
+SHADER SCRIPTS          : None
+SCRIPT USES ID TEXTURES : NA
+README DESCRIPTION      : Yes
+
+------------------
+* TEXTURE NAMES *
+------------------
+bb_container_back.tga
+bb_container_front.tga
+bb_container_side.tga
+bb_container_top.tga
+
+===================================================================
+
+TITLE                   : Monster Cage
+AUTHOR                  : Eric "Deathcow" Sandvig
+EMAIL ADDRESS           : deathcow@digitalarenas.com
+HOMEPAGE URL            : -
+NUMBER OF TEXTURES      : 4
+SHADER SCRIPTS          : dc_monster1
+SCRIPT USES ID TEXTURES : No
+README DESCRIPTION      : No
+
+------------------
+* TEXTURE NAMES *
+------------------
+dc_cage1_eyes.tga
+dc_cage1_front.tga
+dc_cage1_front_a.tga
+dc_cage1_side.tga
+dc_cage1_top.tga
+
+===================================================================
+
+TITLE                   : Crate
+AUTHOR                  : Evil Lair
+EMAIL ADDRESS           : hfx@planetquake.com
+HOMEPAGE URL            : -
+NUMBER OF TEXTURES      : 2
+SHADER SCRIPTS          : None
+SCRIPT USES ID TEXTURES : NA
+README DESCRIPTION      : No
+
+------------------
+* TEXTURE NAMES *
+------------------
+el_crate01.tga
+el_crate01_top.tga
+
+===================================================================
+
+TITLE                   : Box & Toxic
+AUTHOR                  : Dave "HuGo the ClOwN" Russell
+EMAIL ADDRESS           : hugotheclown@hotmail.com
+HOMEPAGE URL            : -
+NUMBER OF TEXTURES      : 4
+SHADER SCRIPTS          : htc_box2, htc_toxic, htc_toxic2
+SCRIPT USES ID TEXTURES : yes
+README DESCRIPTION      : No
+
+------------------
+* TEXTURE NAMES *
+------------------
+htc_box1.tga
+htc_box2.tga
+htc_toxic.tga
+htc_toxic2.tga
+
+===================================================================
+
+TITLE                   : Crate
+AUTHOR                  : Katherine "Jezebel" Dinger
+EMAIL ADDRESS           : elanthia@geocities.com
+HOMEPAGE URL            : http://div.dyndns.org/FOO/
+NUMBER OF TEXTURES      : 4
+SHADER SCRIPT           : None
+SCRIPT USES ID TEXTURES : NA
+README DESCRIPTION      : No
+
+------------------
+* TEXTURE NAMES *
+------------------
+jez_crate1.tga
+jez_crate2.tga
+jez_crate3.tga
+jez_crate4.tga
+
+===================================================================
+
+TITLE                   : Crate
+AUTHOR                  : Ken "KaBal" Spicer
+EMAIL ADDRESS           : kabal@planetquake.com
+HOMEPAGE URL            : http://www.planetquake.com/kabalarena/
+NUMBER OF TEXTURES      : 2
+SHADER SCRIPT           : None
+SCRIPT USES ID TEXTURES : NA
+README DESCRIPTION      : No
+
+------------------
+* TEXTURE NAMES *
+------------------
+ka_crateside.tga
+ka_cratetop.tga
+
+===================================================================
+
+TITLE                   : Crate01
+AUTHOR                  : Karloff
+EMAIL ADDRESS           : karl.off@berlin.de
+HOMEPAGE URL            : -
+NUMBER OF TEXTURES      : 16
+SHADER SCRIPT           : None
+SCRIPT USES ID TEXTURES : NA
+README DESCRIPTION      : No
+
+------------------
+* TEXTURE NAMES *
+------------------
+kf_crate01128-1.tga
+kf_crate01128-2.tga
+kf_crate01128-blue.tga
+kf_crate01128-blue2.tga
+kf_crate01128-orange.tga
+kf_crate01128-orange2.tga
+kf_crate01128-red.tga
+kf_crate01128-red2.tga
+kf_crate01256-1.tga
+kf_crate01256-2.tga
+kf_crate01256-blue.tga
+kf_crate01256-blue2.tga
+kf_crate01256-orange.tga
+kf_crate01256-orange2.tga
+kf_crate01256-red.tga
+kf_crate01256-red2.tga
+
+===================================================================
+
+TITLE                   : Container
+AUTHOR                  : killazontherun
+EMAIL ADDRESS           : killaz@quakerally.com
+HOMEPAGE URL            : www.planetquake.com/klzotr
+NUMBER OF TEXTURES      : 3
+SHADER SCRIPT           : None
+SCRIPT USES ID TEXTURES : NA
+README DESCRIPTION      : No
+
+------------------
+* TEXTURE NAMES *
+------------------
+kz_container.tga
+kz_container2.tga
+kz_containertop.tga
+kz_containertop2.tga
+
+===================================================================
+
+TITLE                   : Ammo_crate
+AUTHOR                  : Bobby "kwakkie" Kwakkernaat
+EMAIL ADDRESS           : Bobbo_bobbo@email.com
+HOMEPAGE URL            : -
+NUMBER OF TEXTURES      : 8
+SHADER SCRIPT           : None
+SCRIPT USES ID TEXTURES : NA
+README DESCRIPTION      : No
+
+------------------
+* TEXTURE NAMES *
+------------------
+kwk_ammo_crate.tga
+kwk_ammo_crate_side1.tga
+kwk_ammo_crate_side2.tga
+kwk_ammo_crate_side3.tga
+kwk_ammo_crate_side4.tga
+kwk_ammo_crate_side5.tga
+kwk_ammo_crate_small.tga
+kwk_ammo_crate_top.tga
+
+===================================================================
+
+TITLE                   : Crate  & Plastic Crate
+AUTHOR                  : Petter"mindgamer"Andersson
+EMAIL ADDRESS           : Mindgamer@formatzion.com
+HOMEPAGE URL            : -
+NUMBER OF TEXTURES      : 11
+SHADER SCRIPT           : None
+SCRIPT USES ID TEXTURES : NA
+README DESCRIPTION      : No
+
+------------------
+* TEXTURE NAMES *
+------------------
+an_back1.jpg
+an_back2.jpg
+an_back3.jpg
+an_bottom.jpg
+an_bplastic1.tga
+an_bplastic2.tga
+an_front.jpg
+an_rplastic1.tga
+an_rplastic2.tga
+an_side.jpg
+an_top.jpg
+
+===================================================================
+
+TITLE                   : Crate
+AUTHOR                  : Paul "MoP" Greveson
+EMAIL ADDRESS           : paul@greveson.co.uk
+HOMEPAGE URL            : -
+NUMBER OF TEXTURES      : 2
+SHADER SCRIPT           : None
+SCRIPT USES ID TEXTURES : NA
+README DESCRIPTION      : No
+
+------------------
+* TEXTURE NAMES *
+------------------
+mop_crate1_bs.tga
+mop_crate1_bt.tga
+
+===================================================================
+
+TITLE                   : Crate
+AUTHOR                  : Renegade45
+EMAIL ADDRESS           : Ren45jdl@optonline.net
+HOMEPAGE URL            : -
+NUMBER OF TEXTURES      : 2
+SHADER SCRIPT           : None
+SCRIPT USES ID TEXTURES : NA
+README DESCRIPTION      : Yes
+
+------------------
+* TEXTURE NAMES *
+------------------
+r45_box1.tga
+r45_box2.tga
+
+
+===================================================================
+
+TITLE                   : Crate
+AUTHOR                  : Rayden
+EMAIL ADDRESS           : the_rayden@iname.com
+ICQ                     : 19702425
+MSN                     : rayden4444
+HOMEPAGE URL            : http://rayden.digitalarenas.com/
+NUMBER OF TEXTURES      : 3
+SHADER SCRIPT           : None
+SCRIPT USES ID TEXTURES : NA
+README DESCRIPTION      : Yes
+
+------------------
+* TEXTURE NAMES *
+------------------
+rayd_crate_front.jpg
+rayd_crate_side.jpg
+rayd_crate_top.jpg
+
+===================================================================
+
+TITLE                   : Crate
+AUTHOR                  : Jesse 'raYGunn' McCree
+EMAIL ADDRESS           : raygunn@gamedesign.net
+HOMEPAGE URL            : -
+NUMBER OF TEXTURES      : 8
+SHADER SCRIPT           : None
+SCRIPT USES ID TEXTURES : NA
+README DESCRIPTION      : Yes
+
+------------------
+* TEXTURE NAMES *
+------------------
+ray_crate_bot.tga
+ray_crate_side1.tga
+ray_crate_side2.tga
+ray_crate_top.tga
+ray_crate256bot.tga
+ray_crate256side1.tga
+ray_crate256side2.tga
+ray_crate256top.tga
+
+===================================================================
+
+TITLE                   : Bio-Transport Crate & Laundry Basket
+AUTHOR                  : Redlemons
+EMAIL ADDRESS           : redlemons@planetquake.com
+HOMEPAGE URL            : http://www.planetquake.com/redlemons/
+NUMBER OF TEXTURES      : 6
+SHADER SCRIPT           : None
+SCRIPT USES ID TEXTURES : NA
+README DESCRIPTION      : No
+
+------------------
+* TEXTURE NAMES *
+------------------
+rds_crate_side.tga
+rds_crate_top.tga
+rds_laundry_side1.tga
+rds_laundry_side2.tga
+rds_laundry_top1.tga
+rds_laundry_top2.tga
+
+===================================================================
+
+TITLE                   : Xcrate
+AUTHOR                  : sc4r4b
+EMAIL ADDRESS           : sc4r4b@hotmail.com
+HOMEPAGE URL            : http://users2.ev1.net/~scarab
+NUMBER OF TEXTURES      : 4
+SHADER SCRIPT           : sc4_xcrate_side, sc4_xcrate_top
+SCRIPT USES ID TEXTURES : No
+README DESCRIPTION      : Yes
+
+------------------
+* TEXTURE NAMES *
+------------------
+sc4_xcrate_side_fx.tga
+sc4_xcrate_side.tga
+sc4_xcrate_top_fx.tga
+sc4_xcrate_top.tga
+
+===================================================================
+
+TITLE                   : Crate
+AUTHOR                  : Johannes Schellen
+EMAIL ADDRESS           : Johannes.Schellen@epost.de
+HOMEPAGE URL            : -
+NUMBER OF TEXTURES      : 4
+SHADER SCRIPT           : None
+SCRIPT USES ID TEXTURES : NA
+README DESCRIPTION      : No
+
+------------------
+* TEXTURE NAMES *
+------------------
+js_crate_bk.tga
+js_crate_ft.tga
+js_crate_sds.tga
+js_crate_tpbt.tga
+
+===================================================================
+
+TITLE                   : Crate
+AUTHOR                  : Martin Slemmons
+EMAIL ADDRESS           : slemmons@swbell.net
+HOMEPAGE URL            : -
+NUMBER OF TEXTURES      : 3
+SHADER SCRIPT           : None
+SCRIPT USES ID TEXTURES : NA
+README DESCRIPTION      : No
+
+------------------
+* TEXTURE NAMES *
+------------------
+slem_crate_bottom.tga
+slem_crate_side.tga
+slem_crate_top.tga
+
+===================================================================
+
+TITLE                   : Crate
+AUTHOR                  : Michael "Syzygy" Tripp
+EMAIL ADDRESS           : ixtland_designs@hotmail.com
+HOMEPAGE URL            : -
+NUMBER OF TEXTURES      : 5
+SHADER SCRIPT           : None
+SCRIPT USES ID TEXTURES : NA
+README DESCRIPTION      : No
+
+------------------
+* TEXTURE NAMES *
+------------------
+syz_crate_back.tga
+syz_crate_front.tga
+syz_crate_side.tga
+syz_crate_top.tga
+syz_crate_top_alt.tga
+
+===================================================================
+
+TITLE                   : Crate
+AUTHOR                  : Techx
+EMAIL ADDRESS           : techx@digitalarenas.com
+HOMEPAGE URL            : http://techx.digitalarenas.com/
+NUMBER OF TEXTURES      : 4
+SHADER SCRIPT           : None
+SCRIPT USES ID TEXTURES : NA
+README DESCRIPTION      : Yes
+
+------------------
+* TEXTURE NAMES *
+------------------
+tchx_crate128A.tga
+tchx_crate128B.tga
+tchx_crate256A.tga
+tchx_crate256B.tga
+
+===================================================================
+
+TITLE                   : Crate01 & Crate02
+AUTHOR                  : Attila "Ww3" Houtkooper
+EMAIL ADDRESS           : aycaramba@selin.com
+HOMEPAGE URL            : http://ww3.digitalarenas.com
+NUMBER OF TEXTURES      : 2
+SHADER SCRIPT           : None
+SCRIPT USES ID TEXTURES : NA
+README DESCRIPTION      : No
+
+------------------
+* TEXTURE NAMES *
+------------------
+ww3_crate01.tga
+ww3_crate02.tga
+
+===================================================================
+
+TITLE                   : Crate
+AUTHOR                  : ydnar
+EMAIL ADDRESS           : ydnar@shaderlab.com
+HOMEPAGE URL            : http://shaderlab.com/
+NUMBER OF TEXTURES      : 5
+SHADER SCRIPT           : None
+SCRIPT USES ID TEXTURES : NA
+README DESCRIPTION      : No
+
+------------------
+* TEXTURE NAMES *
+------------------
+sl_crate_side_1.tga
+sl_crate_side_2.tga
+sl_crate_side_3.tga
+sl_crate_side_4.tga
+sl_crate_top.tga

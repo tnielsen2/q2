@@ -1,0 +1,10 @@
+DAWN OF DARKNESS(tm) TOTAL CONVERSION for Quake II, including but not limited to all original source code, art, audio, characters, locations, and situations copyright (c) 1999-2000 Ward Six Entertainment. All rights reserved.
+
+DAWN OF DARKNESS(tm) TOTAL CONVERSION is not endorsed or supported by id Software in any way. Do not contact id Software regarding this product. This distribution contains no data from the Quake II CD-ROM and, to the best of our knowledge, violates no terms of the EULA set forth in the Quake II documentation. 
+
+DAWN OF DARKNESS(tm) TOTAL CONVERSION may be distributed only if unmodified and in its entirety, with all files and data included. CD-ROM distribution is acceptable with permission from Ward Six Entertainment. This product cannot be sold for profit.
+
+LIMITED END-USER LICENSE
+All data included in this distribution has been created by and remains property of Ward Six Entertainment, but users (mod creators specifically) are hereby granted a limited license to utilize the data for non-commercial purposes and with due credit given where appropriate.
+
+Products derived from or utilizing any of the data from DAWN OF DARKNESS(tm) TOTAL CONVERSION cannot be sold for profit.

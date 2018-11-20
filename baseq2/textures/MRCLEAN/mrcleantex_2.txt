@@ -1,0 +1,52 @@
+================================================================
+Title                   : mrclean texture pak 2
+PK3 Name                : mrcleantex_2.pk3
+Date			: May 30, 2000
+Author                  : Todd 'Mr.CleaN' Rose
+Email Address           : mrclean@planetquake.com
+Home Page		: http://www.planetquake.com/mrclean/
+
+Misc. Info       	: This is the second texture pak that I have released for Quake3, with
+			   hopefully more to follow. It includes basic shaders for all
+			   textures that need them. Feel free to make your own as well, 
+			   but do not modify the mrcleantex_2.shader (ie: put them in your own
+			   .shader file) as it could cause complications further down the line.
+                          The textures contained in this pak were all created from scratch and
+			  are not modified textures from any game. You will find that most of 
+			  the textures herein have duplicates of different hues. This is not
+			  done simply to boost the number of textures in the pak, but rather 
+			  to give some flexibility to the level designer.
+			  **you will need to add mrcleantex_2 to your baseq3\scripts\shaderlist.txt
+			  in order to have the shaders show up in your editor.
+
+Thanks to		: id Software (of course)
+			  
+================================================================
+
+
+
+
+
+* Copyright / Permissions *
+
+All original and composed textures in this pak remain property of
+Todd 'Mr.CleaN' Rose.
+
+All original and edited shaders in this level remain property of
+Todd 'Mr.CleaN Rose.
+
+These textures were created with Quake3 in mind, but you may use the textures
+in any game level. I would appreciate info on maps released with these textures,
+as well as credit for the textures themselves. 
+
+These textures may not be modified in any way or used as a base for other textures without 
+prior explicit permission. If you see something you like and have a modification in mind for 
+it, or would like to request something for the next pak, please let me know. Users have permission
+to create new .shader files that utilize these textures, but may not modify the mrcleantex_2.shader 
+that accompanies this pk3.
+
+You MAY distribute this PK3 in any electronic format (BBS, Internet,
+CD, etc) as long as you contact me first, include all files intact in
+the original archive, and send me a free copy (if it's a CD :) Thanks.
+
+

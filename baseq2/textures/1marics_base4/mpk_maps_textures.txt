@@ -1,0 +1,93 @@
+---------------------------------------------------------------
+***************************************************************
+Map  Name:  "Splemdiferous Gimcrack" & "Radioactive Toy" maricsmpk1 / maricsmpk2
+   DM level for Quake 2 Awakening2 mod
+   by Shon Shaffer "Maric"
+
+
+Contact:        maric@pscclan.com
+   
+   
+      
+
+Version 11-11-05
+***************************************************************
+---------------------------------------------------------------
+
+
+Additional Credit*
+
+* I have to give the bulk of the credit to the makers of TREAD, its an 
+           absolutely great program due to its accessibility and ease of use.
+* ID Software, of course, for Quake 2.
+
+*All Textures by Maric www.maricscabinet.com
+
+
+ 
+*** 
+
+
+*GAMEPLAY INFO*
+
+ Single Player :  nah
+ Deathmatch :  well, thats what i made it for
+ Cooperative :  nope, unless you gang up on some lpb in dm.
+ Difficulty Settings: nope
+ Base System:  P3 1 gig Verto Geforce2 64 meg DDR
+ Player load : lots and lots, this is not a dueling map by any stretch
+
+*BUILD INFO*
+
+ Build Time:    ? hours 
+ Utilities Used:   *Tread 
+     *more Tread 
+     *and even more Tread, it has it all... oh, and Arghrad and Nems Mega 3d
+     
+
+
+ 
+ Build Machine(s):  same as above
+ Final Compile Machine:         "    "      "
+ QBSP3 :                  4 seconds
+ QVIS3 :                  5 seconds
+ ArghRAD :                1  minute
+ Known Bugs:              Who cares?
+
+*notes 
+      
+    These are two maps made from a common "unusual" texture set. The idea is that
+    we will have a "community" map pak made from this set, all having a semi-common visual     theme... Maybe? Anyway, these are the two example maps, the r_speeds are ridiculoud but
+    I wanted to convey the possibilities...
+                       
+
+
+*INSTALLATION*
+
+       if you got this zip file intact just aim this puppy at your baseq2
+               folder and let 'er rip.
+  
+
+      
+
+    
+
+*COPYRIGHT/PERMISSIONS*
+
+"Splemdiferous Gimcrack" & "Radioactive Toy" maricsmpk1 / maricsmpk2  
+are Copyright (c) 2005 by Shon M. Shaffer
+
+Quake 2 is Copyright (c) 1997 by ID Software Inc.  All rights reserved.
+The Quake 2 logo and likenesses are trademarks of ID Software Inc.
+All artwork including 3D models, textures, and skins is the exclusive
+property of ID software.  
+
+
+*Legal notes ; PHFFFFTTTT!
+
+
+Thanks : Maric
+
+
+
+

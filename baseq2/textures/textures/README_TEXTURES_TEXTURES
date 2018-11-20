@@ -1,0 +1,24 @@
+# Yes, this is really baseq2/textures/textures/...
+#
+# Apparently the map dark010_old.bsp uses this
+# peculiar location for its textures.
+
+aa4703ba0721eb9152aef9f2690ef6fe  baseq2/textures/textures/c_mf_v7.wal
+57514c3ed42dd1708637e6b2bce86026  baseq2/textures/textures/ev34.wal
+93f6cf86f376ff5ce3390201ba96900f  baseq2/textures/textures/ev43.wal
+a9139f14b356a6c492618ac655d55d23  baseq2/textures/textures/ik256cdm.wal
+2a8981f28093eae0789d617273e270cf  baseq2/textures/textures/ikgit1d.wal
+83b7039a6ddb69147279fb06083c4137  baseq2/textures/textures/ikit128b.wal
+2eba98e46cea2cc34d8c987352f469e0  baseq2/textures/textures/ikith32b.wal
+7714be3b33bcfa929a4a211c71378759  baseq2/textures/textures/ikm64b.wal
+1f022d0553f54d2f44b0469cbd422e5d  baseq2/textures/textures/ikmt128a.wal
+32e6abcf7edb41051db3d0d84a2580de  baseq2/textures/textures/ikmt128c.wal
+09d3b2fda6e73c9feaef93a88452b1c7  baseq2/textures/textures/ikth16b.wal
+cd92373eccf456629f927db59097b299  baseq2/textures/textures/ikw32a.wal
+824c7867dbc8cd58534e420571fda827  baseq2/textures/textures/ikw32c.wal
+af0443e977422f6a6e3ecb7cfd919988  baseq2/textures/textures/ikwh32b.wal
+4c2931678b50a8680e23c95963120802  baseq2/textures/textures/lava_24.wal
+7a53ddeb1a3802046635c0f644258dc8  baseq2/textures/textures/plate_53.wal
+f09cd9f2543b36dbb2074f8852511406  baseq2/textures/textures/vegg6.wal
+912d64d9fa5a3d9749844dcfc64e8784  baseq2/textures/textures/water2.wal
+

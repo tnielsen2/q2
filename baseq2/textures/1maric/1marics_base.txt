@@ -1,0 +1,20 @@
+
+1marics_base Texture set for Quake2
+
+All textures made from scratch with...
+
+-Texture Maker - http://www.texturemaker.com/
+-Wally - I cannot seem to find an active Wally site anymore
+-Paint Shop Pro - http://www.jasc.com/
+-Photo Shop - http://www.adobe.com/products/photoshop/main.html
+
+
+- This is more or less my first real texture set. Real, meaning that it is a semi-cohesive
+bunch of or textures in four shades of color that work well together. The set is comprehensive enough that (I think) an entire map can be worked out with them. My intent though, was to make a set of basic textures that could be used with almost anything else out there. 
+
+- The four colors/shades are gray, dark-gray, green and brown-ish. The gray and brown-ish may and may not work out. I was going to leave the brown set out but figured some were worthwhile and the others can be deleted or ignored by any interested users.
+
+- I do not care what you do with these, have at them. If it is possible mention where you got them from please do, if not Phfffft to you! Change them any way you need to make them work any way you need, use them in any game you desire. 
+
+Legal... PHFFFT! 
+Shon "Maric" Shaffer" 2004

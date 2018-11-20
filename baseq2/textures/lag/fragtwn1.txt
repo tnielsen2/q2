@@ -1,0 +1,153 @@
+==============================================================================
+Title                   : Fragtown1 - The Bronx (v1.0)
+Filename                : Fragtwn1.bsp
+Author                  : Bruce Oberleitner (i.e. Demolition Man)
+Release Date            : 05/11/98
+Game                    : Quake 2
+Email Address           : bober@micron.net
+Web Site                : http://www.planetquake.com/fragtown
+
+Description             : The Bronx is a new level for Quake 2 deathmatch play 
+                          based on the popular Fragtown level series.  
+
+Install Notes           : Here's what you need to do to install this package for
+                          Quake 2.  First, let's assume that quake2 is installed in
+                          the c:\quake2 directory.  You will need to build the following
+                          directories.
+
+                          c:\quake2\baseq2\demos
+                          c:\quake2\baseq2\maps
+                          c:\quake2\baseq2\textures
+
+                          Copy the Fragtwn1.dm2 file into the demos directory.  
+                          Copy Fragtwn1.BSP and Fragtwn1.map into the maps directory.  
+                          Copy all of the textures (i.e. *.wal) files into the textures 
+                          directory.  
+
+Running Map and Demos   : To run the demo type "MAP FRAGTWN2.DM1" at the quake 
+                          console.  To load the map type "MAP FRAGTWN1" at the quake
+                          console. 
+Additional Credits to   
+
+New Textures              Steve McCrea, Simon Wall & Elias.
+                          City textures are from the old doom wad file
+                          called TRINITY.WAD
+
+Playtesting team.         Steve Dahlin (i.e. Snake Plissken)
+                          Jim Grossel (i.e. Spiff)
+                          Kevin Rank (i.e. Rifter)
+                          Peter Dahlin (i.e. Blade)
+                          Patrick Ian B. Peralta (i.e. The Rogue)
+                          Travis Garrison (i.e. Mortal)
+                          Ian MacLeod (i.e. MazeMaster)
+                          Edwin Neill
+                          Ken Rachynski
+                          Jim Millan
+                          And anyone else that I have forgotten....
+
+                            
+and
+                          C.R. Bots
+                                - These things simply kick ass!
+                          id Software
+                                - Once again, thanks for a great game!
+                          Blues News.
+                                - Wonderful source of quake information!
+                          
+
+
+
+
+Special Note           : If you like this level, please send me an email
+                         and let me know what you think.  I will build 
+                         more if I get some encouragement.  Also, if you
+                         record a demo on this level, please send me a
+                         copy.  I love to see carnage!!!
+
+
+WebSites by Author
+
+Fragtown Homepage        http://www.planetquake.com/fragtown/fragtown.html
+Idaho DeathSquad Clan    http://netnow.micron.net/~bober/IDC.html
+DoomLovers Page          http://netnow.micron.net/~bober/Doomlvr.htm
+
+======================================================================
+
+* Play Information *
+
+Single Player           : No
+Cooperative 2-8 Player  : No
+Quakematch 2-16 Player  : YES (2 - 6 players recommended)
+New Sounds              : No
+New Graphics            : YES
+New Music               : No
+Demos Replaced          : Yes. Demolition Man battles the evil bots.
+                                       
+
+* Construction *
+
+Base                    : Level from Scratch
+Editor(s) used          : Worldcraft 
+Known Bugs              : please report any to bober@micron.net
+
+
+* Copyright / Permissions *
+
+Authors MAY NOT use this level as a base to build additional levels, 
+concatenations, or otherwise.
+
+You MAY distribute this BSP, provided you include this file, with
+no modifications.  You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file
+intact.
+
+===========================================================================
+Other Items by Author:
+Either available now or coming soon.
+
+
+Quake 2
+
+q2fgtwn1.zip             - 1st of the Fragtown series.
+q2fgtwn2.zip             - 2nd of the Fragtown series.
+q2fgtwn3.zip             - 3rd of the Fragtown series.
+q2fgtwn4.zip             - 4th of the Fragtown series.
+
+More conversions and new levels coming......
+
+Quake 1
+
+Fragtwn1.zip             - 1st of the Fragtown series.
+Fragtwn2.zip             - 2nd of the Fragtown series.
+Fragtwn3.zip             - 3rd of the Fragtown series.
+Fragtwn4.zip             - 4th of the Fragtown series.
+Fragtwn5.zip             - 5th of the Fragtown series
+Fragtwn6.zip             - 6th of the Fragtown series
+Fragtwn7.zip             - 7th of the Fragtown series
+Fragtwca.zip             - Fragtown explores the world of CTF!
+Fragtwcb.zip             - Same level as FragCTFa but for deathmatch
+Fragtw16.zip             - 16 player Fragtown level
+Fragsnds.zip             - Sounds for Fragtown!
+
+IdcBase.zip              - Idaho deathsquad military base level.
+IdcBase3.zip             - Idaho deathsquad military base level.
+
+Comming Soon for Quake:
+Fragskin.zip             - New skins for robots and deathmatch players!
+
+Duke3d
+
+EscapeLA.zip             - Large city levels come to Duke3d!
+EscapeNY.zip             - Large city levels come to Duke3d!
+EscapeSM.zip             - Small city level.
+
+Doom2
+
+Bpodm001.zip            - Attack on Outpost 7
+Bpodm002.zip            - The Villa
+Bpodm003.zip            - The Nuke processing plant
+Bpodm004.zip            - Run for your life!
+BpoDm005.zip            - Down by the Docks.
+BpoDm006.zip            - Battlefield Chicago
+BpoDm007.zip            - Threate of Blood.
+

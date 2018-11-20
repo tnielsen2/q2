@@ -1,0 +1,31 @@
+Mansion Texture Set v1.0			May 17, 1999
+======================================================================
+
+File:		various wal files
+Author:		Crista Forest, aka "CD Warrior"
+E-mail:		cdwarrior@usa.net, csforest@planetunreal.com
+Web Pages:	http://www.planetunreal.com/forest/
+		http://www.planetquake.com/infinity/
+		http://www.foreststudios.com
+
+
+This is an original texture art set originally created by Crista Forest
+for use in Unreal based level creation and later converted to Quake2 format.
+
+"These textures were designed for use in an Unreal level that was based
+on the theme of a plantation mansion. I got the idea from a visit to
+Jamaica and pictures of the Rose Hall plantation there.  However, my
+textures and level were only inspired by the mansion. They are not meant
+to be an accurate representation of it.
+
+"There are approximately 60 original textures in this set which I
+personally created. You may use these textures in your own Quake2
+map for personal enjoyment only. You may NOT use these images for
+commercial purposes without my written permission. When distributing
+these textures please distribute them in their original .wal form as
+a set and include this .txt file. Please do not distribute individual
+textures or import them into other game texture sets. Thank you."
+
+--Crista Forest, aka CD Warrior
+
+

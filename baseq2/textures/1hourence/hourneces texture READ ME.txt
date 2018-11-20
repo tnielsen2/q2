@@ -1,0 +1,37 @@
+Textures By Hourences
+HourPitores (UT1 - UT2004 - Half-Life 2 - Other) 
+http://www.planetunreal.com/phalanx/
+
+
+General information
+Pitores is a semi realistic TechIndustrial texture pack containing around 70 textures of 1024 resolution and is free for all non commercial use as long as you credit me.
+The pack is avaiable in a JPG gallery, a UT1 UTX, a UT2004 UTX and a HalfLife 2 VTF directory. In the compiled game versions of Pitores all shaders have been set. Footstep sounds have been added and correct compression has been used as well as other misc settings such as detailtextures.
+The pack is mainly made up out of dark red, yellowish gray and some yellow lines but also features some blue variants of some textures so I hope itll work well for example CTF or other teambased gametypes. The colors are subtle on purpose and the bright yellow gray is there to make sure the textures light better. The brighter a surface the easier it will be to light (brightness and shadow wise). The less saturated the tex
+tures the easier they will be to color by lighting. Too saturated colors would also be too flashy and not stylish enough
+
+You can download it below or simply click the JPG tumbs to see the fullsize versions and simply save those to your HD and convert or import them to your desired destination for them.
+
+First pic is N3oDoc's DM-Cityzen (UT1), second is KaMi's CTF-Gataka (UT1) and last pic is DarthWeasels DM-Raze (UT1)
+
+ The content provided is copyright 2001-2005, by Sjoerd "Hourences" De Jong
+
+You are authorized to use the content in any work of art (renders, models, etc.), any MOD for any game, any level for any game and any freeware game provided you give me credits for the textures in the readme, credits or any other such places.
+
+You are allowed to make changes to the textures as long as I will be mentioned in the readme and/or creditscreen, etc.
+
+You are allowed to extract textures out of the UTX's/VTF's and/or to duplicate them in to a levels Mylevel provided I receive credits for it in the readme or any such places.
+
+In case the textures are offered independent (not in combination with a model, game, level or whatsoever) You MAY distribute these textures through any electronic media (internet (web/ftp), FIDO, local BBS, Magazine coverdisk etc.), provided you include this readmefile.
+
+In case the content is used by a map, MOD, or any such art work you MAY distribute the UTX/VTF without this readme file provided you DO credit me in your readme, manual, credits screen or any such places.
+
+You MAY NOT use parts of this texture pack to form a new texture pack without my written permission ! Only exception is a maps Mylevel or when used in self made freeware/garage games
+
+You are NOT allowed to modify the original UTX/VTF. I and I alone will be the only person who makes changes and updates to the UTX version.
+
+You MAY NOT charge any money for this content.
+This content is for non commercial artwork only. If you do want to use this on commercial base please contact me trough email.
+
+If you have any questions about tis complicated legal part, feel free to email me.
+I basically only ask to credit me when you use any of the textures.
+I am also very interested in seeing what kind of things are being made with my textures so feel free to email me when you made something cool with them :) http://www.planetunreal.com/phalanx/

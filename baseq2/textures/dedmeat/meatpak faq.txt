@@ -1,0 +1,24 @@
+This is a document of fequently asked question regarding the Deadmeat deathmatch level and any Meatpak related levels.
+
+
+"Can I use your textures in my Quake3 map?"
+
+-- sure, everyone is more than welcome to use any and all of my textures and shaders in projects for any game as long as the project is not being sold. If you do use any of my textures I would appreciate a link to my web site and proper credite given in any text files or documentation included with your project.
+
+Thanks,
+
+Credit Info
+
+Meat (Pete Parisi)
+www.badmeat.com
+meatpak@hotmail.com
+
+
+"Can you send my your .map files"
+
+-- sorry no. I am thinking about putting together a .map file for basic template shapes like arches and bouncepads.
+
+
+"What is the baseq3 folder? Where is the Baseq3 folder? I keep clicking on deadmeat.pk3 and it doesn't work! Where do I put the deadmeat.pk3? What application do I open the deadmeat.pk3 file with?
+
+I'm not sure where people are downloading this map from but the web site where you got it was supposed to explain that the deadmeat level is a deathmatch map for Quake3Arena. Quake3Arena 

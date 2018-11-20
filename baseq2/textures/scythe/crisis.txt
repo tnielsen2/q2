@@ -1,0 +1,61 @@
+
+6-10-98
+-----------------------------------------------------------------
+
+Title			: Midlife Crisis
+Filename		: CRISIS.bsp
+Author			: Ray "Scythe" Dahlia
+Email Address		: strogg@msn.com
+
+Description 		: 1 on 1 Deathmatch map for Quake 2
+
+Credits			: id software
+			: Valve software for Worldcraft 1.6
+			: Ben Morris, Worldcraft author
+			: Mike Malakhov for the CRbot
+			: Jeff Yost and the Ramshackle crew for expert live
+			  beta testing and release support 
+			
+
+Special Thanks to	: Jeff Yost 
+			: Dennis "headshot" Kaltwasser 
+			: Paul Dahlia
+
+Find the best levels	: RAMSHACKLE [www.planetquake.com/ramshackle] 
+on the net at-		: Headshot's tiny deathmatch map depot [headshot.terrafusion.com]
+
+        
+-----------------------------------------------------------------
+
+Play Information	: GL highly recommended
+
+
+Deathmatch 2-4 players 	: Designed for 1 on 1 play (no powerups) 
+			  Up to 3 players FFA or 2 on 2 Teamplay
+
+-----------------------------------------------------------------
+
+Installation 		: *IMPORTANT*  To play this map, the .bsp must be unzipped
+			  to the Quake2/baseq2/maps directory. 
+			  For the enclosed texture,
+			  "tele.wal", create a directory like this:
+			  Quake2/baseq2/textures/scythe
+			  and unzip the texture to the "scythe" folder.
+			  
+-----------------------------------------------------------------
+ 
+Construction		: Built over a period of a month using Worldcraft 1.6
+
+Brushes			: 507
+Entities		: 262
+QBSP			: 10 sec.
+QRAD3			: 631 sec. (-extra -bounce 40 -scale 1.1)
+QVIS3			: 382 sec. (-level 4)
+
+-----------------------------------------------------------------
+
+Copyright 1998 Ray Dahlia
+Textures Copyright 1997 id software
+
+This level may only be distributed over the internet, and may not be put on a CDROM or sold.
+If you have any questions or comments please Email me. 		

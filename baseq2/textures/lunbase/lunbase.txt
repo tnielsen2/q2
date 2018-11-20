@@ -1,0 +1,37 @@
+- File Information -------------------------------------------------------- 06.16.2000 ---
+               Title : Let's Drink Beer and Shoot Things Texture Pack
+            Filename : lundesert.zip
+              Author : Lunaran
+       Email Address : LtCmdrLun@aol.com
+            Web Site : Visit http://lunaran.fragland.net
+   Zip File Contents : scripts/lunbase.shader is an unmodified version of the shader included
+                       with the original release of Lun3DM2.  There's nothing new in here.
+                     : lunbase/ contains all textures included with the original release of 
+                       Lun3DM2.  There's nothing new in here, either.  However ...
+                     : sources/ contains several of the Photoshop files, unflattened, that I
+                       used to make the various textures in LDBST.  Not all of them are here,
+                       but all the base materials (slab, onyx, tech, and crete), the PSD for 
+                       the concrete walls, walls w/the 6-sided black panel, and the jumppads 
+                       are included, which is enough to get anyone with experience in Photoshop 
+                       on his way expanding the set however he may need.
+
+               Notes : DO NOT e-mail me asking for help making your own textures or using 
+                       Photoshop.  I'm providing these files with the assumption that you know
+                       what to do with them.  I will not provide tutorials, guidance, or extra
+                       material, and if I still get e-mails about it, I will trash them unread.
+
+- Copyright / Permissions ----------------------------------------------------------------
+   The contents of this zip remain the intellectual and copyrighted property of Lunaran, and 
+are protected by appropriate copyright laws.  This file or its contents may not be *commercially* 
+exploited in any way.  You may distribute this zip file and/or its contents by any electronic 
+means, provided you leave the contents unaltered and include this text file, also unaltered.
+   Authors may, and are encouraged to, freely use the included custom textures & shaders, or 
+modifications thereof, provided they give note of such in an attached readme.  This means you 
+have my permission to use them, which means you don't need to e-mail me and ask me if you can 
+use them.  Also be sure to use directories and filenames different than those in lun3dm2.pk3, 
+or else you run the risk of having both maps excluded from pure servers.
+
+              ,===========================================,
+              |  -- "It's the platinum record Bumpus got  |
+              | for 'Let's Drink Beer and Shoot Things.'" |
+              '==========================================='

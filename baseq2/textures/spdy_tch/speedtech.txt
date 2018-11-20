@@ -1,0 +1,73 @@
+
+SpeedTech textures
+____________________________________
+
+Title				: SpeedTech Textures 
+Game				: Quake 3 (any q3-based game, or any game that can handle jpg)
+
+Author			: 
+			Speedy
+			speeds@bk.ru
+			www.planetquake.com/speedy
+			www.cr8.da.ru
+			icq 68154481
+			
+Release Date            : March 2003
+Files                   : many
+
+____________________________________
+
+Description 
+
+Industrial/sci-fi greyish textures made with q3 in mind. Mapper-friendly (at least for me ;))
+.shader included
+___________________________________
+
+Instructions / INSTALLATION 
+
+1. Extract the zip file in the BASEQ3 directory keeping the folder structure
+(or just move it there and rename from .zip to pk3)
+2. Goto the SCRIPTS sub-directory under the BASEQ3  and in the file SHADERLIST.TXT   
+add the line at the bottom (the name of the .sahder) : speedtech
+
+
+Please check all individual shaders for additional textures
+because some light fixtures share the same blend texture.
+
+____________________________________
+
+If you change anything, create a new shader file
+and use unique shaders names and paths please,
+to avoid possible problems. 
+
+If you use my textures, please give me credit and mention my site URL. 
+
+If you modify any of the textures, they still remain my property! 
+
+____________________________________
+
+Testing/Help
+
+thanks to _blackPope, Map-center and q3w guys, Sock. 
+
+greetings to #tf/qmap/func_msgboard folks
+____________________________________
+
+Soft Used              
+
+GtkRadiant
+PS by someone
+q3Ase
+bred2
+____________________________________
+
+-- Copyright / Permissions --
+
+
+NON-commercial use only. In other case you have to obtain my permission.
+If you modify any of the textures, they still remain my property! If you dont agree with these conditions - dont use my textures.
+
+
+You MAY distribute this file through any electronic network (internet,
+local BBS etc.), provided you include txt and all files unmodified and leave the zip archive intact.
+
