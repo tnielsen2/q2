@@ -5,18 +5,17 @@ This container is built off of the drags/docker-quake2 github repo.
 To run, clone this repo int your /opt/q2 directory:
 
 ```
-git clone https://github.com/tnielsen2/q2.git /opt/q2
+git clone https://github.com/tnielsen2/q2.git /opt/q2 && cd /opt/q2
 ```
 
 ## Rocket Arena
 
 Build the container
 ```
-docker build /opt/q2/Dockerfile --tag quake2
+docker build . --tag quake2:arena
 ```
 
 Run the container:
 ```
-docker run -d -p 27910:27910/udp
+docker run -d --name quake2arena -p 27910:27910/udp quake2:arena
 ```
-## Rail Arena
